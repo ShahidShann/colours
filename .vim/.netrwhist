@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/hwetools/work_area/frontend/johnshahid_B7/RAL_APB/agent2'
+let g:netrw_dirhist_2='/hwetools/work_area/frontend/johnshahid_B7/RAL_APB'
+let g:netrw_dirhist_3='/hwetools/work_area/frontend/johnshahid_B7/RAL_APB/agent2'
+let g:netrw_dirhist_4='/hwetools/work_area/frontend/johnshahid_B7/RAL_APB'
+let g:netrw_dirhist_5='/hwetools/work_area/frontend/johnshahid_B7/RAL_APB/test'
+let g:netrw_dirhist_6='/hwetools/work_area/frontend/johnshahid_B7/RAL_APB'
+let g:netrw_dirhist_7='/hwetools/work_area/frontend/johnshahid_B7/RAL_APB/pas_agent'
+let g:netrw_dirhist_8='/hwetools/work_area/frontend/johnshahid_B7/colour_coding/vim_root_folder/syntax'
